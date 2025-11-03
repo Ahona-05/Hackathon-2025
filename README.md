@@ -6,7 +6,7 @@ All about our project idea and visualizing it through diagrams and other stuffs.
 ### Project Idea
 A digital platform to connect all categories people with healthcare professionals easily & updatedly.
 
-### 🧩 Tech Stack
+###  Tech Stack
 Frontend: React  
 Backend: Node.js (Express)  
 Database: MySQL  
@@ -65,7 +65,7 @@ Below are the main API endpoints that will be implemented:
      ```
 
 
-### 🧪 Postman Collection
+### Postman Collection
 We are testing all backend APIs using **Postman**.
 The following endpoints are included for testing:
 
